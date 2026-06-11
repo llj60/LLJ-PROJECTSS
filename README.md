@@ -1,4 +1,5 @@
-# LLJ-PROJECTSS
+# LLJ-PROJECTSS ( work in progress )
+
 
 # 🧑‍💻 Technical Support & IT Operations Portfolio
 
