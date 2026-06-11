@@ -1,11 +1,9 @@
 # LLJ-PROJECTSS ( work in progress )
 
 
-# 🧑‍💻 Technical Support & IT Operations Portfolio
+# 🧑‍💻 IT Portfolio
 
-Welcome to my GitHub profile! I am an IT Support Specialist and Cybersecurity student focused on delivering reliable technical support, systematic system administration, and disciplined incident response. 
-
-My approach to information technology is centered around **operational efficiency, clear documentation, and framework-guided troubleshooting** (such as ITIL and NIST). I build sandbox environments to simulate real-world enterprise infrastructure challenges, proving my readiness to hit the ground running in Tier 1/2 Helpdesk, Desktop Support, and PC Technician roles.
+I built this profile to showcase my ability to manage technical tasks and support environments in an entry-level helpdesk, desktop support, or PC technician role.But so far, To demonstrate these skills, I configured a virtual machine environment running Windows Server 2022 and deployed an Active Directory (AD) infrastructure with a tiered security structure for a fictional enterprise. Additionally, I simulated real-world technical support scenarios to showcase my hands-on troubleshooting and documentation capabilities.
 
 ---
 
