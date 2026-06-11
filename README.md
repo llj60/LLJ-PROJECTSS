@@ -33,4 +33,4 @@ A comprehensive case study ledger showcasing day-to-day Helpdesk operations insi
 Below are the direct links to the complete documentation, configuration steps, and technical workflows for these projects:
 
 *   **Active Directory Infrastructure Build Guide:** [`adbuild (1).md`](adbuild%20\(1\).md) — Detailed deployment steps covering Windows Server 2022 setup, static networking, role/feature installation, OU tiering, and Group Policy configuration[cite: 2].
-*   **Helpdesk & Incident Response Scenarios:** [`ITScenario.md`](ITScenario.md) — Step-by-step technical ledger of enterprise support tickets, identity verification practices, PowerShell onboarding automation, and security containment protocols[cite: 1].
+*   **Helpdesk & Incident Response Scenarios:** [`ITScenarios`](ITScenario.md) — Step-by-step technical ledger of enterprise support tickets, identity verification practices, PowerShell onboarding automation, and security containment protocols[cite: 1].
