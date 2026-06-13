@@ -1,9 +1,9 @@
 # Ticket Incident Hygiene 
 
-# 🎫 Project Overview: ITIL Incident Management Hygiene 
+#  Project Overview: ITIL Incident Management Hygiene 
 
 
-## 📌 Project Overview
+##  Project Overview
 The purpose of this project is to showcase a practical understanding of prioritizing tickets, managing queues and documenting by utilizng ITIL knowledge. 
 
 Utilizing a simulator called Service Desk Simulator as the controlled environment and will use it to docuement reasoning, user commuinication, and troubleshooting approaches, and resolution documenting. 
@@ -12,7 +12,7 @@ While the simulator itself has its own model of its environment, the primary obj
 
 ---
 
-## 📊  ITIL Priority Matrix
+##  ITIL Priority Matrix
 
 | Impact \ Urgency | High (Critical Block) | Medium (Work Impaired) | Low (Workaround Exists) |
 | :--- | :--- | :--- | :--- |
@@ -33,29 +33,30 @@ While the simulator itself has its own model of its environment, the primary obj
 
 ---
 
-## 📂 Active Incident 
+##  Active Incident 
 
-### 🎫 Ticket ID: 
+###  Ticket ID: 
 *   **User / Affected Asset:** [e.g., Jane Doe / Workstation-ATL-04]
-*   **ITIL Category:** [e.g., Hardware | Software | Network | Identity & Access Management]
-*   **Triage Matrix Evaluation:** Impact: [Low/Med/High] | Urgency: [Low/Med/High] → **Assigned Priority: [P1 - P4]**
+*   **ITIL Category:** e.g., Hardware  Software | Network | Identity & Access Management]
+*   **Triage Matrix Evaluation:** Impact: Low/Med/High | Urgency: Low/Med/High → **Assigned Priority: P1 - P4
 
-#### 🔍 1. Ingestion & Symptom Analysis
-*   **Identity Verification:** *[Document the step taken to verify the identity of the user reporting the issue to prevent social engineering attacks.]*
-*   **Symptom Breakdown:** *[Detail the user's explicit complaint, error messages, or unexpected system behavior observed during ingestion.]*
+### 1. Ingestion & Symptom Analysis
+*   **Identity Verification:** *[Document the step taken to verify the identity of the user reporting the issue to prevent social engineering attacks.
+*   **Symptom Breakdown:** *[Detail the user's explicit complaint, error messages, or unexpected system behavior observed during ingestion.
 
-#### 🧰 2. Chronological Diagnostic Path & Failed Attempts
-*   *[Step 1: Document the initial system or logs inspected.]*
-*   *[Step 2: Note any diagnostic commands run (e.g., ping, ipconfig, gpupdate) and their outputs.]*
-*   *[Step 3: Document any failed remediation attempts. Explaining what did NOT work proves a logical process of elimination and prevents duplicate efforts if escalated.]*
+### 2. Chronological Diagnostic Path & Failed Attempts
+*   *[Step 1: Document the initial system or logs inspected.
+*   *[Step 2: Note any diagnostic commands run (e.g., ping, ipconfig, gpupdate) and their outputs.
+*   *[Step 3: Document any failed remediation attempts. Explaining what did NOT work proves a logical process of elimination and prevents duplicate efforts if escalated.
 
-#### 🔧 3. Final Remediation & Recovery Verification
-*   **Remediation Action:** *[Detail the exact, permanent technical fix applied to resolve the root cause of the incident.]*
-*   **User Validation:** *[Document the explicit confirmation from the end-user verifying that full service functionality has been successfully restored on their end.]*
+###  3. Final Remediation & Recovery Verificatio
+   Remediation Action:** *[Detail the exact, permanent technical fix applied to resolve the root cause of the incident.
+   User Validation:** *[Document the explicit confirmation from the end-user verifying that full service functionality has been successfully restored on their end
 
-#### 📝 4. Enterprise Resolution Notes
-> **Knowledge Base (KB) Summary:**
-> *[Write a concise, professional 2-3 sentence summary detailing the final root cause and the successful remediation path to assist team members encountering similar issues in the future.]*[cite: 1]
+### 4. Enterprise Resolution Notes
+> Knowledge Base (KB) Summary:
+> Write a concise, professional 2-3 sentence summary detailing the final root cause and the successful remediation path to assist team members encountering similar issues in the future.
+
 
 ---
 
