@@ -4,6 +4,7 @@
 # 🧑‍💻 IT Portfolio
 
 I built this profile to showcase my ability to manage technical tasks and support environments in an entry-level helpdesk, desktop support, or PC technician role.But so far, To demonstrate these skills, I configured a virtual machine environment running Windows Server 2022 and deployed an Active Directory (AD) infrastructure with a tiered security structure for a fictional enterprise. Additionally, I simulated real-world technical support scenarios to showcase my hands-on troubleshooting 
+
 ---
 
 ## 🛠️ Core Competencies & Tech Stack
