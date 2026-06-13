@@ -29,4 +29,4 @@ Below are the direct links to the complete documentation, configuration steps, a
 
 *   **Active Directory Infrastructure Build Guide:** [`AD Build`](adbuild%20\(1\).md) — Detailed deployment steps covering Windows Server 2022 setup, static networking, role/feature installation, OU tiering, and Group Policy configuration[cite: 2].
 *   **Helpdesk & Incident Response Scenarios:** [`ITScenarios`](ITScenario.md) — Step-by-step enterprise support tickets, identity verification practices, PowerShell onboarding automation, and security containment protocols[cite: 1].
-*   **Helpdesk Indicent management Hygiene:**[`Case Studies`](https://github.com/llj60/Ticket-Incident-Hygiene/blob/main/README.md) 
+*   **Helpdesk Indicent management Hygiene:**[`Case Studies`](https://github.com/llj60/Ticket-Incident-Hygiene/blob/main/README.md) - Real-world ticket lifecycles covering ITIL priority matrix triage,user authentication, knowledge base fulfillment, and structured resolution documentation.
